@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "CV"
-permalink: gaoxiang-huang.github.io/cv/
+permalink: /HGXCV/
 author_profile: true
 redirect_from:
   - /resume
