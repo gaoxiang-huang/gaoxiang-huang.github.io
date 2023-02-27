@@ -43,12 +43,15 @@ determinants.
   
 Skills
 ======
-* Julia
-* R
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* C
+* Programming Languages:
+  * R
+  * Julia
+  * C
+* Applied Skills:
+  * Data analysis
+  * Mathematical modeling
+  * Experiment design
+  * Bibliometric
 
 Publications
 ======
