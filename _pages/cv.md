@@ -64,15 +64,15 @@ Publications
   
 Awards
 ======
-* H Prize, “Shuwei Cup” International Student Mathematical Modeling Competition `Nov. 2021`
-* Third Prize “Huajiao Cup”National University Mathematics Competition `Nov. 2021`
-* H Prize Interdisciplinary Contest In Modeling(MCM/ICM) `Feb. 2022`
-* Second Prize ”MathorCup” National Student Mathematical Modeling Competition `Aug. 2022`
-* Second Prize ”Renzheng Cup” National Student Mathematical Modeling Competition Preliminary round May. 2022
-* Second Prize China Student Computer Design Competition (Tournament Area) Jun. 2022
-* Grand Prize(1/4983) ”Renzheng Cup” National Student Mathematical Modeling Competition Final round Jun. 2022
-* First Prize China Undergraduate Mathematical Contest in Modeling(CUMCM) (Tournament Area) Sep.2022
-* Second Prize Nation University math network championship Sep. 2022
+* _H Prize, “Shuwei Cup” International Student Mathematical Modeling Competition_ `Nov. 2021`
+* _Third Prize “Huajiao Cup”National University Mathematics Competition_ `Nov. 2021`
+* _H Prize Interdisciplinary Contest In Modeling(MCM/ICM)_ `Feb. 2022`
+* _Second Prize ”MathorCup” National Student Mathematical Modeling Competition_ `Aug. 2022`
+* _Second Prize ”Renzheng Cup” National Student Mathematical Modeling Competition Preliminary round_ `May. 2022`
+* _Second Prize China Student Computer Design Competition (Tournament Area)_ `Jun. 2022`
+* _Grand Prize(1/4983) ”Renzheng Cup” National Student Mathematical Modeling Competition Final round_ `Jun. 2022`
+* _First Prize China Undergraduate Mathematical Contest in Modeling(CUMCM) (Tournament Area)_ `Sep.2022`
+* _Second Prize Nation University math network championship_ `Sep. 2022`
 
  
 
