@@ -35,10 +35,10 @@ determinants.
 * Summer 2022: Leader
   * China University of Petroleum Beijing at Karamay
   * Duties included：
-   * Detected the gap from numerous bibliographies based at my mathematics model competition paper.
+   * Detected the gap from numerous bibliographies based at my mathematics modeling's competition paper.
    * Improved the mathematics model using psychological theory.
    * Designed experiment to testify improved model.
-   * Optimized mathemastics model repeatedly.
+   * Optimized mathematics model repeatedly.
    * Obtained the most optimistic model and applied it into real. 
   
 Skills
