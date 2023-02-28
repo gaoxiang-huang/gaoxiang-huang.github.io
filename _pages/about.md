@@ -1,13 +1,12 @@
 ---
 permalink: /
-title: "HOME"
+title: "About me"
 excerpt: "Gaoxiang Huang"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-# About me
 
 I am Gaoxiang Huang, currently a college senior at the [China University of Petroleum Beijing at Karamay](https://www.cup.edu.cn/),
 studying in the College of Arts and Sciences with Statistics major. My research interest in the area of Psychological Statistics and Machine Learning.
