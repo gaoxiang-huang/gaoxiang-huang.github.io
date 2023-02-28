@@ -13,7 +13,7 @@ name                     : &name "HUANG Gaoxiang"
 description              : &description "A undergraduate"
 url                      : "https://gaoxiang-huang.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "https://github.com/gaoxiang-huang/gaoxiang-huang.github.io/"
+repository               : "gaoxiang-huang/gaoxiang-huang.github.io/"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/gaoxiang-huang/"
+  github           : "gaoxiang-huang/"
   google_plus      :
   keybase          :
   instagram        :
