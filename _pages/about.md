@@ -18,7 +18,7 @@ Research Interests
 I enjoy exploring/building things that are novel and impactful (in research and life). 
 My research is motivated by building intelligent and efficient systems for core ADVs problem (e.g., turning a large amount of unstructured information into a avaliable and explainable model).Specifically, my current includes (but not limited to) developing methods describing HAC condition, to construct the most optimistic mathematical model.
 
-### $ \colorbox{yellow} {Seeking postgraduate programs, please call me if someone are interested in me} $
+### $\colorbox{yellow} {Seeking postgraduate programs, please call me if someone are interested in me}$
 
 News
 ======
