@@ -6,11 +6,11 @@ permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2023-2-13
 venue: 'Journal 1'
-paperurl: Scheduling  #'http://gaoxiang-huang.github.io/files/paper3.pdf'
-citation: 'GX HUANG.(2023). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+paperurl: Scheduling  #'http://kns.cnki.net/kcms/detail/11.3092.V.20230214.1331.003.html'
+citation: '[1]刘延东,黄高翔,陈文.基于增强心理行为异质性的改进社会力模型[J/OL]. <i>系统仿真学报 </i>. :1-10[2023-04-17].'
 ---
 This paper is about the number 3. The number 4 is left for future work.
 
 [Download paper here](http://gaoxiang-huang.github.io/files/paper3.pdf)
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+<!-- Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3). -->
