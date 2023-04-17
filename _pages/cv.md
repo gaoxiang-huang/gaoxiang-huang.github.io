@@ -23,14 +23,15 @@ Research experience
   * China University of Petroleum Beijing 
   * Duties included: Data cleaning, variable dimensionality reduction, and correlation analysis are performed on the data of new
     energy vehicle pattern recognition.
-  * Supervisor: Professor ZhangQi
+  * Supervisor: Doctor Boyu Liu in the group of Professor ZhangQi
 
-* Summer 2022: Visiting Student
+* Summer 2022: Research Assisant
   * Macao Polytechnic University
   * Duties included: 
      * Analyzing the global trade network of waste, Using the R package ”tergm”.
      * Aimed at constructing global waste waster trade networks and examining their structural evolution and
         determinants.
+     * Assists with articles writing and review manuscripts.
   * Supervisor: Doctor Xiumei Xu
 * Summer 2022: Leader
   * China University of Petroleum Beijing at Karamay
