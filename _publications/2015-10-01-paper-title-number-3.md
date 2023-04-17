@@ -6,8 +6,8 @@ permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2023-2-13
 venue: 'Journal 1'
-paperurl: Scheduling  #'http://kns.cnki.net/kcms/detail/11.3092.V.20230214.1331.003.html'
-citation: '[1]刘延东,黄高翔,陈文.基于增强心理行为异质性的改进社会力模型[J/OL]. <i>系统仿真学报 </i>. :1-10[2023-04-17].'
+paperurl: [Scheduling]([https://markdown.com.cn](http://kns.cnki.net/kcms/detail/11.3092.V.20230214.1331.003.html) "2023.5月见刊") #''
+citation: '[1]Liu YD,Huang GX.et al.Improved Social Force Model Based on Enhancing Psychobehavioral Heterogeneity. <i>Journal of system simulation </i>. :1-10[2023-04-17].'
 ---
 This paper is about the number 3. The number 4 is left for future work.
 
