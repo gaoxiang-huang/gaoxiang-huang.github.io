@@ -1,6 +1,5 @@
 ---
-title: "Improved Social Force Model Based on Enhancing Psychobehavioral Heterogeneity
-"
+title: "Improved Social Force Model Based on Enhancing Psychobehavioral Heterogeneity"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
