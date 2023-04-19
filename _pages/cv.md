@@ -35,7 +35,7 @@ Research experience
   * Supervisor: Doctor Xiumei Xu
 * Summer 2022: Leader
   * China University of Petroleum Beijing at Karamay
-  * Duties included：
+  * Task included：
      * Detected the gap from numerous bibliographies based at my mathematics modeling's competition paper.
      * Improved the mathematics model using psychological theory.
      * Designed experiment to testify improved model.
