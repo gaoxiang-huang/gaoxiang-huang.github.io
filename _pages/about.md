@@ -24,6 +24,10 @@ My research is motivated by building intelligent and efficient systems for core 
 
 News
 ======
+* `2023.7.02` Nankai University Summer Campe Over
+* `2023.6.30` Nankai University Summer Camp Opening
+* `2023.6.30` RedBird Challenge Campe Over
+* `2023.6.23` RedBird Challenge Camp Opening
 * `2023.2.20` Finished paper of MCM in 2023
 * `2023.2.20` 23Spring Semester begins
 * `2023.2.17` MCM begins
