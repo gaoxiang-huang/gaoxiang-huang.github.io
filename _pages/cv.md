@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in Beijing, China University of Petroleum Beijing at Karamay, 2020 - Present 
-  * Department of Mathematics, School of Arts and Sciences
+* B.S. in Beijing, China University of Petroleum Beijing, 2020 - Present 
+  * Department of Mathematics, School of Arts and Sciences(Karamay)
    * Majoring in Statistics(STAT)
    * Relevant Courses: Mathematical analysis; Advanced algebra; Real functions and general function analysis;
      Probability theory; Mathematical statistics; Stochastic processes.  
