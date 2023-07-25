@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.S. in Beijing, China University of Petroleum Beijing, 2020 - Present 
-  * Department of Mathematics, School of Arts and Sciences(Karamay)
+  * Department of Mathematics, School of Arts and Sciences
    * Majoring in Statistics(STAT)
    * Relevant Courses: Mathematical analysis; Advanced algebra; Real functions and general function analysis;
      Probability theory; Mathematical statistics; Stochastic processes.  
@@ -34,7 +34,7 @@ Research experience
      * Assists with articles writing and review manuscripts.
   * Supervisor: Doctor Xiumei Xu
 * Summer 2022: Leader
-  * China University of Petroleum Beijing at Karamay
+  * China University of Petroleum Beijing
   * Task included：
      * Detected the gap from numerous bibliographies based at my mathematics modeling's competition paper.
      * Improved the mathematics model using psychological theory.
