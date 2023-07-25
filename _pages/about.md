@@ -20,7 +20,7 @@ My research is motivated by building intelligent and efficient systems for core 
 
 <!-- ### \colorbox{yellow}{Seeking postgraduate programs, please call me if someone are interested in me} -->
 
-### ==<span style="background:yellow;">I'm seeking postgraduate programs, please call me if someone are interested in me</span>==
+<!-- ### ==<span style="background:yellow;">I'm seeking postgraduate programs, please call me if someone are interested in me</span>== -->
 
 News
 ======
