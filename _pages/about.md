@@ -24,8 +24,13 @@ My research is motivated by building intelligent and efficient systems for core 
 
 News
 ======
-* `2023.7.02` Nankai University Summer Campe Over
-* `2023.6.30` Nankai University Summer Camp Opening
+* `2023.8.26` Texas A&M U offer of tongue got
+* `2023.8.13` HKUST(GZ) offer recommendation got 
+* `2023.8.10` Texas A&M U interview ended
+* `2023.7.30` Hongkong University of Science and Technology(Guangzhou) Interview ended
+* `2023.7.15` Hongkong University of Science and Technology(Guangzhou) arrived
+* `2023.7.10` Southern University of Science and Technology Work Over
+* `2023.6.30` Southern University of Science and Technology Work Opening
 * `2023.6.30` RedBird Challenge Campe Over
 * `2023.6.23` RedBird Challenge Camp Opening
 * `2023.2.20` Finished paper of MCM in 2023
