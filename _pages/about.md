@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 I am Gaoxiang Huang, currently a college senior at the [China University of Petroleum Beijing](https://www.cup.edu.cn/),
-studying in the College of Arts and Sciences with Statistics major. My research interest in the area of Psychological Statistics and Machine Learning.
+studying in the College of Arts and Sciences with Statistics major. My research interest in the area of Data Analytics and Machine Learning.
 <!-- I was a research assistant at the China University of Petroleum Beijing, concerning the research of driver behavior assessment
 advised by Prof. [ZhangQi](https://cup.edu.cn/aces/teachers/full/84345.html) -->
 
