@@ -13,11 +13,7 @@ Education
 ======
 * B.S. in Beijing, China University of Petroleum Beijing, 2020 - Present 
   * Department of Mathematics, School of Arts and Sciences
-<<<<<<< HEAD
-   * Majoring in Statistics(STAT) 3.34/5 (9/61)
-=======
-   * Majoring in Statistics(3.34/5, 9/61)
->>>>>>> 64b7185b21c1a577edabd84a8f2d1af67fb04c2f
+   * Majoring in Statistics(STAT) 3.34/5
    * Relevant Courses: Mathematical analysis; Advanced algebra; Real functions and general function analysis;
      Probability theory; Mathematical statistics; Stochastic processes.  
 
