@@ -8,14 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I am Gaoxiang Huang, currently a one-year MPhil at [The Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/zh/?variant=zh-cn). I graduated from [China University of Petroleum Beijing](https://www.cup.edu.cn/), with Statistics major. My research interest in the area of Data Analytics and Machine Learning.
+I am Gaoxiang Huang, currently a one-year MPhil at [The Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/zh/?variant=zh-cn). I graduated from [China University of Petroleum Beijing](https://www.cup.edu.cn/), with Statistics major. My research interest in the area of **LLM Multi-agents** and **Explainable AI(XAI)**.
 <!-- I was a research assistant at the China University of Petroleum Beijing, concerning the research of driver behavior assessment
 advised by Prof. [ZhangQi](https://cup.edu.cn/aces/teachers/full/84345.html) -->
 
 Research Interests
 ======
 I enjoy exploring/building things that are novel and impactful (in research and life). 
-My research is motivated by building intelligent multi-agent group.Specifically, my current includes (but not limited to) developing methods strengthen agent memory retriving, being access to low-level information for high-level concept to construct the most optimistic mathematical model and multi-agent framework.
+My research is motivated by building intelligent multi-agent group.Specifically, my current includes (but not limited to) developing methods strengthen agent memory retriving, being access to low-level information for high-level concept to construct the most optimistic mathematical model and multi-agent framework. I'm also interesting in Statistics driving AI trustworthy in the field of LLM alignment, explainability, seurity.
 
 <!-- ### \colorbox{yellow}{Seeking postgraduate programs, please call me if someone are interested in me} -->
 
@@ -23,7 +23,8 @@ My research is motivated by building intelligent multi-agent group.Specifically,
 
 News
 ======
-* `2023.8.26` Texas A&M U offer of tongue got
+Loading
+<!-- * `2023.8.26` Texas A&M U offer of tongue got
 * `2023.8.13` HKUST(GZ) offer recommendation got 
 * `2023.8.10` Texas A&M U interview ended
 * `2023.7.30` Hongkong University of Science and Technology(Guangzhou) Interview ended
@@ -35,7 +36,7 @@ News
 * `2023.2.20` Finished paper of MCM in 2023
 * `2023.2.20` 23Spring Semester begins
 * `2023.2.17` MCM begins
-* `2023.2.13` A paper was accepted by the Journal of System Simulation
+* `2023.2.13` A paper was accepted by the Journal of System Simulation -->
 
 <!-- Site-wide configuration
 ------
