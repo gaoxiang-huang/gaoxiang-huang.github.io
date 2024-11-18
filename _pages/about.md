@@ -24,19 +24,6 @@ My research is motivated by building intelligent multi-agent group.Specifically,
 News
 ======
 Loading
-<!-- * `2023.8.26` Texas A&M U offer of tongue got
-* `2023.8.13` HKUST(GZ) offer recommendation got 
-* `2023.8.10` Texas A&M U interview ended
-* `2023.7.30` Hongkong University of Science and Technology(Guangzhou) Interview ended
-* `2023.7.15` Hongkong University of Science and Technology(Guangzhou) arrived
-* `2023.7.10` Southern University of Science and Technology Work Over
-* `2023.6.30` Southern University of Science and Technology Work Opening
-* `2023.6.30` RedBird Challenge Campe Over
-* `2023.6.23` RedBird Challenge Camp Opening
-* `2023.2.20` Finished paper of MCM in 2023
-* `2023.2.20` 23Spring Semester begins
-* `2023.2.17` MCM begins
-* `2023.2.13` A paper was accepted by the Journal of System Simulation -->
 
 <!-- Site-wide configuration
 ------
@@ -62,3 +49,17 @@ For more info
 ------
 More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
  -->
+
+<!-- * `2023.8.26` Texas A&M U offer of tongue got
+* `2023.8.13` HKUST(GZ) offer recommendation got 
+* `2023.8.10` Texas A&M U interview ended
+* `2023.7.30` Hongkong University of Science and Technology(Guangzhou) Interview ended
+* `2023.7.15` Hongkong University of Science and Technology(Guangzhou) arrived
+* `2023.7.10` Southern University of Science and Technology Work Over
+* `2023.6.30` Southern University of Science and Technology Work Opening
+* `2023.6.30` RedBird Challenge Campe Over
+* `2023.6.23` RedBird Challenge Camp Opening
+* `2023.2.20` Finished paper of MCM in 2023
+* `2023.2.20` 23Spring Semester begins
+* `2023.2.17` MCM begins
+* `2023.2.13` A paper was accepted by the Journal of System Simulation -->
