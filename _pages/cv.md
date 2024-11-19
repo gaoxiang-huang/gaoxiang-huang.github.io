@@ -12,16 +12,18 @@ redirect_from:
 Education
 ======
 * Mphil, The HongKong University of Science and Technology (Guangzhou)
-  * AI thrust&INFO Hub <p align="right">2024-Present</p>
+  * AI thrust&INFO Hub 
+<p align="right">2024-Present</p>
+
 * B.S, China University of Petroleum Beijing
   * Department of Mathematics, School of Arts and Sciences
    * Majoring in Statistics(STAT)
    <!-- * Relevant Courses: Mathematical analysis; Advanced algebra; Real functions and general function analysis;
      Probability theory; Mathematical statistics; Stochastic processes.   -->
 <p align="right">2020-2024</p>
+
 Research experience
 ======
-
 **Multidimensional evaluation model of driving safety based on big data of new energy bus operation**
   <!-- * China University of Petroleum Beijing  -->
 
