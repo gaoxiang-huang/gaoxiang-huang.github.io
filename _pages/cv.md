@@ -11,19 +11,28 @@ redirect_from:
 
 Education
 ======
-* Mphil, The HongKong University of Science and Technology (Guangzhou)
+* M.Phil, The HongKong University of Science and Technology (Guangzhou)
   * AI thrust&INFO Hub 
 <p align="right">2024-Present</p>
 
 * B.S, China University of Petroleum Beijing
   * Department of Mathematics, School of Arts and Sciences
-   * Majoring in Statistics(STAT)
+   * Majoring in Statistics(STAT,GPA:3.58/4)
    <!-- * Relevant Courses: Mathematical analysis; Advanced algebra; Real functions and general function analysis;
      Probability theory; Mathematical statistics; Stochastic processes.   -->
 <p align="right">2020-2024</p>
 
 Research experience
 ======
+*Postgraduate(2024-Present):*
+
+**LLM-Based Intelligent Companion AI Digital Humans with Consciousness and Memory**
+This group project aims to create a robust Multi-Dimensional Cognitive Reliability and Security Framework for LLM-Based Companion Agents. By integrating advancements in cognitive reasoning, interpretability, security, and personalized emotional support, the project seeks to address the growing concerns over the reliability, transparency, and security of Large Language Model (LLM)-driven digital human companions. The overarching objective is to ensure that these agents can operate securely, reason effectively, adapt emotionally, and provide trustworthy, context-sensitive responses while safeguarding user privacy and maintaining resistance against adversarial manipulations.
+
+* keywords: LLM, Dehallucination, Uncertainty quantification, Companion AI
+
+*Undergraduate(2020-2024):*
+
 **Multidimensional evaluation model of driving safety based on big data of new energy bus operation**
   <!-- * China University of Petroleum Beijing  -->
 
