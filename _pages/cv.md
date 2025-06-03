@@ -43,6 +43,7 @@ Research experience
 **Key Contributions:**
 
 <!-- * Theoretically proved a minimum trigger size threshold, above which Conceptguard effectively defends against attacks (average backdoor success rate reduced by ~30\%). -->
+
 * Led CBMs baseline and Conceptguard experiments on CUB dataset, demonstrating improved concept accuracy. Identified cluster mechanism as an unsupervised method to avoid concept-level category conflicts and enhance feature learning for better concept correlation capture.
 
 <!-- *Undergraduate(2020-2024):*
@@ -55,7 +56,7 @@ Research experience
    *  Processed 688 million data points from electrical vehicles, handled default values for key variables, and
  trained models for multiple season data sets.
 
- <p align="right">Summer 2022</p> --> -->
+ <p align="right">Summer 2022</p> -->
 
 <!-- **A combined application of a gravity model and social network analysis evaluating the economic connections**
 
