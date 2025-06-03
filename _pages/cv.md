@@ -49,24 +49,24 @@ Research experience
 <!-- *Undergraduate(2020-2024):*
 
 **Multidimensional evaluation model of driving safety based on big data of new energy bus operation**
-  <!-- * China University of Petroleum Beijing  -->
+  * China University of Petroleum Beijing 
 
-  <!-- * Developed a new evaluation model for driving behavior based on vehicle status, real-time driving, and
+  * Developed a new evaluation model for driving behavior based on vehicle status, real-time driving, and
  driving behavior using machine learning methods such as BPNN, SVM, CNN, KNN, and DTR.
    *  Processed 688 million data points from electrical vehicles, handled default values for key variables, and
  trained models for multiple season data sets.
 
- <p align="right">Summer 2022</p> -->
+ <p align="right">Summer 2022</p>
 
-<!-- **A combined application of a gravity model and social network analysis evaluating the economic connections**
+**A combined application of a gravity model and social network analysis evaluating the economic connections**
 
   * Analyzed the global trade network of waste and developed innovative ways to enhance decision-making
  through temporal exponential random graph models.
   * Constructed global waste trade networks and studied their structural evolution and determinants.
 
-<p align="right">Summer 2022</p> -->
+<p align="right">Summer 2022</p>
 
-<!-- **Improved Social Force Model Based on Enhancing Psychobehavioral Heterogeneity**
+**Improved Social Force Model Based on Enhancing Psychobehavioral Heterogeneity**
 
   * Proposed an enhanced system dynamics model incorporating agent-based trampling risk assessment, entropy methodforexternalfactorimpactquantification, expertweighting, and psychological force parameters for individual movement vectors.
   
