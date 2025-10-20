@@ -89,12 +89,7 @@ Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor 2024-11-26.md %}</ul>
-  
-  <ul>{% for post in site.talks %}
-    {% include archive-single-cv.html %}
-  {% endfor 2025-10-20.md %}</ul>
-  
+  {% endfor%}</ul>
 Awards
 ======
 * `Sep. 2022`_First Prize China Undergraduate Mathematical Contest in Modeling(CUMCM)_
