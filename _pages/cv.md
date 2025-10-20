@@ -91,11 +91,9 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor 2024-11-26.md %}</ul>
   
-<!-- Talks
-======
   <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul> -->
+    {% include archive-single-cv.html %}
+  {% endfor 2025-10-20.md %}</ul>
   
 Awards
 ======
