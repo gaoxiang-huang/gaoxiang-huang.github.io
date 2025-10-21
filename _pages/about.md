@@ -8,14 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I am Gaoxiang Huang, currently a one-year MPhil at [The Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/zh/?variant=zh-cn). I graduated from [China University of Petroleum Beijing](https://www.cup.edu.cn/), with Statistics major. My research interest in the area of **LLM Multi-agents** and **Explainable AI(XAI)**.
-<!-- I was a research assistant at the China University of Petroleum Beijing, concerning the research of driver behavior assessment
-advised by Prof. [ZhangQi](https://cup.edu.cn/aces/teachers/full/84345.html) -->
+I am Gaoxiang Huang, currently a second year MPhil at [The Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/zh/?variant=zh-cn). I graduated from [China University of Petroleum Beijing](https://www.cup.edu.cn/), with Statistics major. My research interest in the area of **Multi-Modal LLM** and **Explainable AI(XAI)**.
 
 Research Interests
 ======
 I enjoy exploring/building things that are novel and impactful (in research and life). 
-My research is motivated by building intelligent multi-agent group.Specifically, my current includes (but not limited to) developing methods strengthen agent memory retriving, being access to low-level information for high-level concept to construct the most optimistic mathematical model and multi-agent framework. I'm also interesting in Statistics driving AI trustworthy in the field of LLM alignment, explainability, seurity.
+My research is motivated by building intelligent multi-agent group. Specifically, my current includes (but not limited to) developing methods strengthen agent memory retriving, being access to low-level information for high-level concept to construct the most optimistic mathematical model and multi-agent framework. I'm also interesting in Statistics driving AI trustworthy in the field of LLM alignment, explainability, seurity.
 
 <!-- ### \colorbox{yellow}{Seeking postgraduate programs, please call me if someone are interested in me} -->
 

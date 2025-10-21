@@ -13,11 +13,12 @@ Education
 ======
 * M.Phil, The HongKong University of Science and Technology (Guangzhou)
   * AI thrust&INFO Hub 
+    * Majoring in Artificial Intelligence
 <p align="right">2024-Present</p>
 
 * B.S, China University of Petroleum Beijing
   * Department of Mathematics, School of Arts and Sciences
-   * Majoring in Statistics(STAT,GPA:3.58/4)
+    * Majoring in Statistics(STAT,GPA:3.58/4)
    <!-- * Relevant Courses: Mathematical analysis; Advanced algebra; Real functions and general function analysis;
      Probability theory; Mathematical statistics; Stochastic processes.   -->
 <p align="right">2020-2024</p>
@@ -27,14 +28,15 @@ Research experience
 *Postgraduate(2024-Present):*
 
 **LLM-Based Intelligent Companion AI Digital Humans with Consciousness and Memory**
-<!-- This group project aims to create a robust Multi-Dimensional Cognitive Reliability and Security Framework for LLM-Based Companion Agents. By integrating advancements in cognitive reasoning, interpretability, security, and personalized emotional support, the project seeks to address the growing concerns over the reliability, transparency, and security of Large Language Model (LLM)-driven digital human companions. The overarching objective is to ensure that these agents can operate securely, reason effectively, adapt emotionally, and provide trustworthy, context-sensitive responses while safeguarding user privacy and maintaining resistance against adversarial manipulations. -->
 
-**Project Summary:** Addressing challenges like prompt injection attacks, data leakage, low interpretability, and emotional deficiency in LLM companion agents for education/healthcare, developed a comprehensive framework to strengthen security, enhance reasoning, quantify uncertainties, and customize emotional support, aiming to create secure, reliable, and empathetic AI assistants. 
+**Project summary**: In the digital age, addressing challenges such as prompt injection attacks, data leakage, low interpretability, and insufficient emotional engagement faced by LLM-based companion agents in fields like education and healthcare, we constructed a comprehensive framework to enhance security protection, improve reasoning capabilities, quantify uncertainty, and customize emotional support. The goal is to create a safe, reliable, and empathetic AI assistant.
+Responsible for the post-training and interpretability modules of the LLM.
 
-**Key Contributions** (Large-Scale Redbird Base Project - Focus on Reducing LLM Hallucinations and Aligning Model Output with Human Factors):
-* Employed Apriori algorithm for association rule learning to mine latent relationships in dataset concept annotations, enhancing causal variable interpretability.
-* Built a knowledge graph as a knowledge base to relax strong assumptions of non-recursive causal models.
-<!-- * Designed an innovative Abductive Learning and Concept Bottleneck Model (ACBMs) framework, achieving SOTA results on CelebA (concept prediction accuracy +$0.2242 \pm 0.0576$, label accuracy +$0.3316 \pm 0.1203$). Ongoing work planned for AAAI 2026 submission. -->
+**Outcomes**
+  - Agent Module: Adopted Qwen3-14B as the pre-trained model and performed single-GPU fine-tuning (A800 80G) on the CBT-bench dataset.
+  - Interpretability Module:
+    - Explored potential relationships among conceptual annotations in the dataset using the Apriori algorithm for association rule learning, enhancing the interpretability of causal variables.
+    - Designed an innovative framework of Latent Disentanglement-Concept Bottleneck Models (LDCBMs). Compared with previous models on the CUB, AwA2, and CelebA datasets, the concept alignment rate increased by 0.1242 ± 0.0576, and the label accuracy improved by 0.1316 ± 0.0203, achieving SOTA performance. Additionally, the entire input-concept-output process is interpretable.
 
 **Backdoor Attack Defense for Concept Bottleneck Models**
 
@@ -42,7 +44,7 @@ Research experience
 
 **Key Contributions:**
 
-<!-- * Theoretically proved a minimum trigger size threshold, above which Conceptguard effectively defends against attacks (average backdoor success rate reduced by ~30\%). -->
+* Theoretically proved a minimum trigger size threshold, above which Conceptguard effectively defends against attacks (average backdoor success rate reduced by ~30\%).
 
 * Led CBMs baseline and Conceptguard experiments on CUB dataset, demonstrating improved concept accuracy. Identified cluster mechanism as an unsupervised method to avoid concept-level category conflicts and enhance feature learning for better concept correlation capture.
 
@@ -72,7 +74,7 @@ Research experience
   
   <p align="right">Summer 2022</p> -->
 
-Skills
+<!-- Skills
 ======
 * Programming Languages:
   * R
@@ -83,13 +85,14 @@ Skills
   * Data analysis
   * Mathematical modeling
   * Experiment design
-  * Bibliometric
+  * Bibliometric -->
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor%}</ul>
+
 Awards
 ======
 * `Sep. 2022`_First Prize China Undergraduate Mathematical Contest in Modeling(CUMCM)_
