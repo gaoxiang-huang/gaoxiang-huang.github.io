@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Gaoxiang Huang, currently a second year MPhil in AI thrust from [The Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/zh/?variant=zh-cn) under supervision of [Prof. Yutao YUE](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/YUE-Yutao/yutaoyue). I graduated from [China University of Petroleum Beijing](https://www.cup.edu.cn/), with Statistics major. My research interest in the area of **Multi-Modal LLM** and **Explainable AI(XAI)**.
+I am Gaoxiang Huang, currently a second-year MPhil at [The Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/zh/?variant=zh-cn) under supervision of [Prof. Yutao YUE](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/YUE-Yutao/yutaoyue). I graduated from [China University of Petroleum Beijing](https://www.cup.edu.cn/), with Statistics major. My research interest in the area of **Multi-Modal LLM** and **Explainable AI(XAI)**.
 
 Research Interests
 ======

@@ -13,7 +13,7 @@ Education
 ======
 * M.Phil, The HongKong University of Science and Technology (Guangzhou)
   * AI thrust&INFO Hub 
-    * Majoring in Artificial Intelligence
+    * Majoring in Artificial Intelligence(AI, CGA:3.323/4)
 <p align="right">2024-Present</p>
 
 * B.S, China University of Petroleum Beijing
