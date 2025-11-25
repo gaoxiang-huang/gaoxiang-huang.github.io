@@ -15,6 +15,10 @@ Research Interests
 I enjoy exploring/building things that are novel and impactful (in research and life). 
 My research is motivated by building intelligent multi-agent group. Specifically, my current includes (but not limited to) developing methods strengthen agent memory retriving, being access to low-level information for high-level concept to construct the most optimistic mathematical model and multi-agent framework. I'm also interesting in Statistics driving AI trustworthy in the field of LLM alignment, explainability, seurity.
 
+Additional information
+======
+I enjoy go hiking and camping, passionate to know about Electron constructure and fix it.
+
 <!-- ### \colorbox{yellow}{Seeking postgraduate programs, please call me if someone are interested in me} -->
 
 <!-- ### ==<span style="background:yellow;">I'm seeking postgraduate programs, please call me if someone are interested in me</span>== -->
