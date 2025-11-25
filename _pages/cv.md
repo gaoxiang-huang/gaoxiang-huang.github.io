@@ -9,17 +9,22 @@ redirect_from:
 
 {% include base_path %}
 
+Material
+======
+* [Statement of Purpose](files\SoP.pdf)
+* [CV](files\Gaoxiang_cv_HKUSTGZ.pdf)
+
 Education
 ======
 * M.Phil, The HongKong University of Science and Technology (Guangzhou)
   * AI thrust&INFO Hub 
-    * Majoring in Artificial Intelligence(AI, CGA:3.323/4)
+    * Majoring in Artificial Intelligence(AI, [CGA:3.323/4](files\SSR_TSRPT_U.pdf))
     * Supervisor: [Prof. Yutao YUE](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/YUE-Yutao/yutaoyue)
 <p align="right">2024-Present</p>
 
 * B.S, China University of Petroleum Beijing
   * Department of Mathematics, School of Arts and Sciences
-    * Majoring in Statistics(STAT,GPA:80.8/100, rank:13/61)
+    * Majoring in Statistics(STAT,[GPA:80.8/100, rank:13/61](files\transcript_en.pdf))
    <!-- * Relevant Courses: Mathematical analysis; Advanced algebra; Real functions and general function analysis;
      Probability theory; Mathematical statistics; Stochastic processes.   -->
 <p align="right">2020-2024</p>
