@@ -9,22 +9,24 @@ redirect_from:
 
 {% include base_path %}
 
-Material
+<!-- Material
 ======
 * [Statement of Purpose](/files/SoP.pdf)
-* [CV](/files/Gaoxiang_cv_HKUSTGZ.pdf)
+* [CV](/files/Gaoxiang_cv_HKUSTGZ.pdf) -->
 
 Education
 ======
 * M.Phil, The HongKong University of Science and Technology (Guangzhou)
   * AI thrust&INFO Hub 
-    * Majoring in Artificial Intelligence(AI, [CGA:3.323/4](/files/SSR_TSRPT_U.pdf))
+    * Majoring in Artificial Intelligence
+    <!-- * (AI, [CGA:3.323/4](/files/SSR_TSRPT_U.pdf)) -->
     * Supervisor: [Prof. Yutao YUE](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/YUE-Yutao/yutaoyue)
 <p align="right">2024-Present</p>
 
 * B.S, China University of Petroleum Beijing
   * Department of Mathematics, School of Arts and Sciences
-    * Majoring in Statistics(STAT,[GPA:80.8/100, rank:13/61](/files/transcript_en.pdf))
+    * Majoring in Statistics
+    <!-- * (STAT,[GPA:80.8/100, rank:13/61](/files/transcript_en.pdf)) -->
    <!-- * Relevant Courses: Mathematical analysis; Advanced algebra; Real functions and general function analysis;
      Probability theory; Mathematical statistics; Stochastic processes.   -->
 <p align="right">2020-2024</p>
@@ -39,26 +41,29 @@ Research experience
 ======
 *Postgraduate(2024-Present):*
 
-**LLM-Based Intelligent Companion AI Digital Humans with Consciousness and Memory**
+**Mechanism-Interpretability-Guided Reasoning Improvement in Latent-Space Autoregressive Paradigms**
 
-**Project summary**: In the digital age, addressing challenges such as prompt injection attacks, data leakage, low interpretability, and insufficient emotional engagement faced by LLM-based companion agents in fields like education and healthcare, we constructed a comprehensive framework to enhance security protection, improve reasoning capabilities, quantify uncertainty, and customize emotional support. The goal is to create a safe, reliable, and empathetic AI assistant.
-Responsible for the post-training and interpretability modules of the LLM.
-
-**Outcomes**
-  - Agent Module: Adopted Qwen3-14B as the pre-trained model and performed single-GPU fine-tuning (A800 80G) on the CBT-bench dataset.
-  - Interpretability Module:
-    - Explored potential relationships among conceptual annotations in the dataset using the Apriori algorithm for association rule learning, enhancing the interpretability of causal variables.
-    - Designed an innovative framework of Latent Disentanglement-Concept Bottleneck Models (LDCBMs). Compared with previous models on the CUB, AwA2, and CelebA datasets, the concept alignment rate increased by 0.1242 ± 0.0576, and the label accuracy improved by 0.1316 ± 0.0203, achieving SOTA performance. Additionally, the entire input-concept-output process is interpretable.
-
-**Backdoor Attack Defense for Concept Bottleneck Models**
-
-**Project Summary:** In explainable AI (XAI), Concept Bottleneck Models (CBMs) enhance interpretability via understandable underlying concepts, but are vulnerable to concept-level backdoor attacks (hidden triggers in concepts causing undetectable misbehavior). First proposed Conceptguard defense: constructed poisoned datasets, divided data subsets, and used majority voting to mitigate data-driven backdoor impacts.
+**Project Summary:** Mainstream LLM reasoning methods such as Chain-of-Thought (CoT) generate many explicit tokens and thus incur high inference cost. Recent latent-space autoregressive paradigms (e.g., COCONUT) perform iterative reasoning in continuous latent space and then decode answers directly, but their internal mechanisms remain underexplored and their reasoning performance is often inferior to SFT-CoT. Through causal mechanism analysis for interpretability, we identified two fundamental mechanisms and proposed the $SAE\_Latent$ method, which achieves SOTA reasoning performance with only one-tenth of the computation cost of other inference-only methods.
 
 **Key Contributions:**
 
-* Theoretically proved a minimum trigger size threshold, above which Conceptguard effectively defends against attacks (average backdoor success rate reduced by ~30\%).
+* Conducted mechanism-level interpretability analysis for latent-space autoregressive reasoning and validated two core findings: (1) latent-space reasoning is primarily routing-based rather than strictly autoregressive, where earlier forward states influence later reasoning; (2) early forwards are responsible for core reasoning and answer decisions, while later forwards mainly consolidate representations and formatting constraints.
 
-* Led CBMs baseline and Conceptguard experiments on CUB dataset, demonstrating improved concept accuracy. Identified cluster mechanism as an unsupervised method to avoid concept-level category conflicts and enhance feature learning for better concept correlation capture.
+* Proposed $SAE\_Latent$ by leveraging latent routing mechanisms: designed one-pass gradient-based key-node identification and a high-level SAE steering strategy that injects steering signals into residual streams at key nodes.
+
+* Ran experiments on Llama3.2-1B-Instruct and Qwen3-7B across GSM8K-aug, SVAMP, MultiArith, and MATH500; results surpassed prior inference-only methods and reached SOTA with approximately 1/10 compute overhead.
+
+**Lightweight Disentangled Concept Bottleneck Model (LDCBM)**
+
+**Project Summary:** Targeting misalignment and concept drift in input-to-concept mapping of Concept Bottleneck Models (CBMs), we developed a lightweight disentanglement framework to improve interpretability, intervention sensitivity, and downstream classification performance. I was responsible for method design, training framework implementation, experimental evaluation, and manuscript writing.
+
+**Key Contributions:**
+
+* Method and implementation: proposed a two-stage LDCBM framework with filter-grouping loss and joint concept supervision; built the training pipeline on ResNet18 with periodic spectral-clustering updates (every 2 epochs), and completed experiments on CUB, CelebA, and AwA2.
+
+* Core results: improved class accuracy on CUB from 60.80\% to 66.17\% (+5.37\%), and on AwA2 from 76.63\% to 77.55\%; when integrated with CEM, achieved 63.50\% class accuracy on CelebA.
+
+* Robustness and efficiency: concept-intervention and background-mask experiments showed more robust visual-concept alignment (CUB task drop reduced from 45.60\% to 40.04\%, concept drop from 6.38\% to 5.89\%); meanwhile the model remained lightweight (11.26M parameters, 1.8236G FLOPs, 6.18 ms/image).
 
 <!-- *Undergraduate(2020-2024):*
 
