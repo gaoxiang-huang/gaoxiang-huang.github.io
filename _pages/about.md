@@ -13,7 +13,7 @@ I am Gaoxiang Huang, currently a second-year MPhil at [The Hong Kong University 
 Research Interests
 ======
 I enjoy exploring/building things that are novel and impactful (in research and life). 
-My research is motivated by building intelligent multi-agent group. Specifically, my current includes (but not limited to) developing methods strengthen agent memory retriving, being access to low-level information for high-level concept to construct the most optimistic mathematical model and multi-agent framework. I'm also interesting in Statistics driving AI trustworthy in the field of LLM alignment, explainability, seurity.
+My research is motivated by building intelligent multi-agent group. Specifically, my current includes (but not limited to) developing methods strengthen agent memory retriving, being access to low-level information for high-level concept to construct the most optimistic mathematical model and multi-agent framework. I'm also interesting in Statistics driving AI trustworthy in the field of LLM alignment, explainability, mechanism.
 
 Additional information
 ======
